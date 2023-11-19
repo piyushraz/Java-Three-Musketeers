@@ -1,0 +1,7 @@
+Story Reviewed, Name, Reviewer, Pull Request Link, Brief Summary of Comments
+DEV-22,Exit Feature,Ayesha,https://github.com/UTMCSC207/assignment3-the-four-musketeers/pull/32,The exit feature is correctly implemented and the user can the game end whenever without error
+DEV-25,Show Previous Move Feature Fix,Ayesha,https://github.com/UTMCSC207/assignment3-the-four-musketeers/pull/33, The show previous move is correctly implemented and any previous existing bugs have been fixed.
+DEV-24,Randomize Board Feature,Maryum,https://github.com/UTMCSC207/assignment3-the-four-musketeers/pull/31, The bug in the randomize board was fixed and the feature works for all three game modes.
+DEV-23,Changing format of the Board,Piyush,https://github.com/UTMCSC207/assignment3-the-four-musketeers/pull/28,Tested to see if the game runs without any errors with the new layout of the features implemented.
+DEV-21,Hint move feature and layout for the game,Piyush,https://github.com/UTMCSC207/assignment3-the-four-musketeers/pull/35, Correctly implemented game with hint feature and tested well constructed layout of the features.
+DEV-22,Exit Feature, Guy, https://github.com/UTMCSC207/assignment3-the-four-musketeers/pull/29, The exit feature is correctly implemented and just fixed regex for the input to be taken in.

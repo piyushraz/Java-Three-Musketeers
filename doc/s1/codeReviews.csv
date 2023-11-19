@@ -1,0 +1,5 @@
+Story Reviewed, Name, Reviewer, Pull Request Link, Brief Summary of Comments
+User Story 1.0,Move Log History Viewer,Piyush,https://github.com/UTMCSC207/assignment3-the-four-musketeers/pull/21,The mediator pattern was used correctly and the file is correclty created everytime the board is used
+User Story 1.3,Skip Turn,Guy,https://github.com/UTMCSC207/assignment3-the-four-musketeers/pull/24,The file is correctly implemented and the user can skip turn and the the existing features work perfectly with it implemented like the move log.
+User Story 1.1,Show previous moves,Ayesha,https://github.com/UTMCSC207/assignment3-the-four-musketeers/pull/23,"The method only has a slight bug where the option to go back does not show for the guard turn when clicking on the ""P"" option"
+User Story 1.4,Randomize Board,Maryum,https://github.com/UTMCSC207/assignment3-the-four-musketeers/pull/22,The randomizeBoard method can potentially return a board where all the musketeers are in the same cell or row and the game ends abruptly without the user making a single move

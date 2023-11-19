@@ -1,0 +1,5 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+22-Nov,1,1,Maryum,Implementing the factory and strategy design patterns in assignment1 startercode,User story 1.1 (updating the move log),In 1 day,None at the moment
+22-Nov,1,1,Ayesha,Implementing the builder design pattern,User story 1.4 - randomize board,In 1 day,None at the moment
+22-Nov,1,1,Guy,Implemeted the Singleton and mediator design pattern,User Story 1.0,In 1 day,None at the moment
+22-Nov,1,1,Piyush,Implemeted Move Log history Viewer modify and layout of file,Iterator pattern,less than a day,None at the moment

@@ -1,0 +1,17 @@
+Story Number, Name, Owner, Priority, Estimate, As a, I want, So that, IMPL Details
+User Story 1.0,Move Log history Viewer,Piyush/Guy,3,3,User,A .txt file where I can view all the moves done,I can analyze my game and how I played at the end,Create a text file and update it based on the moves done/undone.
+User Story 1.1,Move log update,Maryum,2,2,Developer,"A system that updates the move log based on undos, skipped turns, and moves.",I can view all the moves done in the game even with the game closed from a text file,Update a text file created in the beginning with the respective current game moves.
+User Story 7.0,Skip Turn,Guy/Piyush,2,1,User,A way that I can skip my turn in a game,I can pass my turn without updating the board,Skip turn input that changes instance of turn and doesn’t do any moves.
+User Story 2.0,Possible Best Move,Guy,3,2,User,A way that I can ask for a hint to help with choosing my move,I can play the best move if I don't know what to pick,Add a hint option before pickig move that displays the best move of the greedy agent
+User Story 3.0,Randomize Board,Ayesha,2,2,User,A way that I can randomize the board in the game,I can play with different situation of the game where I don’t start with standard moves.,Change the instance of the board to have the pieces randomized in their position on the board
+User Story 4.0,Exit Feature,Piyush,3,2,User,A UI that allows me to exit the game,I can leave the game mid-way,Create an option that allows the user to exit the game.
+User Story 5.0,Custom Pieces,Maryum/Ayesha,2,3,User,"A way that I can change the piece types from the original ""O"" and ""X""",I can customize the pieces and the looks of the game,Add an option in the beginning that takes a single alphanumeric choice and changes the piece type display based on that
+User Story 6.0,Print Move History,Maryum,2,3,User,A way to see my previous moves,I can view my previous moves one at a time to see what move I did,Create a moves list that can be iterated through each turn and printed to the console
+Bug 1,getAllCells() not implemented,,,,,,,
+Bug 2,changeTurn() not implemented,,,,,,,
+Bug 3,"isNextTo(, ) not implemented",,,,,,,
+Bug 4,onBoard() not implemented,,,,,,,
+Bug 5,inSameRowOrSameCol() not implemented,,,,,,,
+Bug 6,Type mismatch: cannot convert from double to int,,,,,,,
+Bug 7,The return type is incompatible with BoardEvaluator.evaluateBoard(Board),,,,,,,
+Bug 8,The import assignment1.InvalidMoveException cannot be resolved,,,,,,,
